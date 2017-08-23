@@ -33,4 +33,4 @@ Other files may be ignored.
 
 ### Run the Project
 Simply open `index.html` with a web browser. Make sure, that JavaScript is enabled.
-[Check out live-version GitHub Pages](https://swiknaba.github.io/neighborhoodmap/)!
+[Check out live-version on GitHub Pages](https://swiknaba.github.io/neighborhoodmap/)!
