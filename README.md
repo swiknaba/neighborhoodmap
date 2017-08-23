@@ -29,7 +29,8 @@
         ├── jquery-3.2.1.min.js # jQuery v3.2.1
         └── knockout-3.4.2.js   # Knockout JavaScript library v3.4.2
 Other files may be ignored.
-        
-        
+
+
 ### Run the Project
 Simply open `index.html` with a web browser. Make sure, that JavaScript is enabled.
+[Check out live-version GitHub Pages](https://swiknaba.github.io/neighborhoodmap/)!
